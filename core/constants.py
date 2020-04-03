@@ -1,0 +1,2 @@
+class CoreConstant(object):
+    
